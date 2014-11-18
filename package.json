@@ -10,7 +10,7 @@
   "author": "Jason Sandmeyer",
   "main": "./index.js",
   "dependencies": {
-    "preprocess": "2.0.x",
+    "preprocess": "2.1.x",
     "map-stream": "0.1.x",
     "gulp-util": "2.2.x",
     "lodash": "2.4.x"
